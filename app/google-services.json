@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "551636617549",
+    "firebase_url": "https://boot-d7218.firebaseio.com",
+    "project_id": "boot-d7218",
+    "storage_bucket": "boot-d7218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551636617549:android:982bcd2bd6eaf024",
+        "android_client_info": {
+          "package_name": "com.manikyapavan.boot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551636617549-goqoigu4qf7gf3pqc88jf2f0dra48i7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manikyapavan.boot",
+            "certificate_hash": "688f88c370367c5750b6e3af7acab8026c3e3405"
+          }
+        },
+        {
+          "client_id": "551636617549-v0esh60ip1j57kvrghlm19jtflrr8pk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8XCfetMU28K9BY-jGOzUNev1F-BDkRP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551636617549-v0esh60ip1j57kvrghlm19jtflrr8pk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
